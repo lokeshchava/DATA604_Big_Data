@@ -11,12 +11,12 @@ There are three type in Big Data:
 ## 6 ‘V’s of Big Data
 The 6 V's in big data describes the characterstics of it. They are:
 
-- Volume: The sheer amount of data generated. Example: YouTube processes over 500 hours of video per minute.
-- Velocity: The speed at which data is generated and must be processed. Example: High-frequency stock trading data.
-- Variety: The diversity of data types and sources. Example: Combining text, images, and sensor data in autonomous vehicles.
-- Veracity: The trustworthiness and quality of data. Example: Detecting fake news in social media streams.
-- Value: Extracting meaningful insights and value from data. Example: Personalized product recommendations in e-commerce.
-- Visibility: The ability to access and analyze data in real-time. Example: Monitoring network traffic for cybersecurity.
+- Volume: The quantity of data produced or required for processing. In one minute, YouTube processes more than 500 hours of video.
+- Velocity: The rate at which data must be processed after it has been generated. Data from high-frequency stock trading.
+- Variety: The range of data sources and data types. Using text, visuals, and sensor data together in autonomous cars.
+- Veracity: The reliability and accuracy of the data. Detecting fake news in social media streams.
+- Value: Getting valuable information and insights from data. An example would be customized product recommendations in online shopping.
+- Visibility: The capacity to gain real-time access to and analysis of data. An illustration would be cybersecurity network traffic monitoring.
 
 ## Phases of Big Data analysis
 
