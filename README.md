@@ -9,7 +9,7 @@ There are three type in Big Data:
 - Semi-Structured Data: Data which has no definite scheme but still maintains a loose structure.
 
 ## 6 ‘V’s of Big Data
-The 6 V's in big data describes the characterstics of it. They are:
+The 6 V's in big data describes the characterstics of it.
 
 - Volume: The quantity of data produced or required for processing. In one minute, YouTube processes more than 500 hours of video.
 - Velocity: The rate at which data must be processed after it has been generated. Data from high-frequency stock trading.
