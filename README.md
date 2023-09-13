@@ -30,3 +30,11 @@ Data interpretation: Using the analysis to reach judgments and make decisions.
 
 
 ## Challenges in Big Data analysis
+Being a game changer in its feild it also has some of the cons that can't be hidden nor can't be avoided such as,
+
+Volume: Managing and storing enormous amounts of data can be expensive and time-consuming.
+Velocity: Quick systems and effective algorithms are needed for real-time data processing.
+Variety: Integrating several data types might be difficult, and older tools might not be able to handle them.
+Veracity: Ensuring data quality and addressing sources of noisy or doubtful data.
+Value: Finding important insights in the midst of Big Data's complexity and noise.
+Protecting sensitive data and adhering to laws like the GDPR are two aspects of privacy and security.
