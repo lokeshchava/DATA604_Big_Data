@@ -30,7 +30,7 @@ In general there are six phases in big data analysis
 
 
 ## Challenges in Big Data analysis
-Being a game changer in its feild it has some of the cons that can't be hidden nor can't be avoided such as,
+Being a game changer in its field it has some of the cons that can't be hidden nor can't be avoided such as,
 
 - Volume: Managing and storing enormous amounts of data can be expensive and time-consuming.
 - Velocity: Quick systems and effective algorithms are needed for real-time data processing.
