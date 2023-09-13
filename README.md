@@ -19,5 +19,14 @@ The 6 V's in big data describes the characterstics of it.
 - Visibility: The capacity to gain real-time access to and analysis of data. An illustration would be cybersecurity network traffic monitoring.
 
 ## Phases of Big Data analysis
+In general there are six phases in big data analysis
+
+Data Collection: Gathering data from multiple sources, such as sensors, databases, and external APIs.
+Data preprocessing: It is the process of preparing raw data for analysis by cleaning, converting, and handling missing values and outliers.
+Data storage: The process of effectively storing data, frequently using Hadoop or other distributed systems or cloud-based storage options.
+Data Analysis: Applying statistical, machine learning, or deep learning methods to reveal patterns and useful insights which helps in making business decisions.
+Data visualization: Using graphs, charts, and dashboards to visually represent the findings.
+Data interpretation: Using the analysis to reach judgments and make decisions.
+
 
 ## Challenges in Big Data analysis
