@@ -42,7 +42,6 @@ Being a game changer in its field it has some of the cons that can't be hidden n
 Reference:
 1. Jones, M. R. (2019). What we talk about when we talk about (big) data. Journal of Strategic Information Systems, 28(1), 3–16. https://doi.org/10.1016/j.jsis.2018.10.005
 2. Ristevski, B., & Chen, M. (2018). Big data analytics in medicine and healthcare. Journal of Integrative Bioinformatics, 15(3). https://doi.org/10.1515/jib-2017-0030
-3. Broeders, D., Schrijvers, E., Van Der Sloot, B., Van Brakel, R., De Hoog, J., & Ballin, E. H. (2017). Big Data and security policies: Towards a framework for regulating the phases of analytics and use of Big Data. Computer Law & Security Review, 33(3), 309–
-323. https://doi.org/10.1016/j.clsr.2017.03.002
+3. Broeders, D., Schrijvers, E., Van Der Sloot, B., Van Brakel, R., De Hoog, J., & Ballin, E. H. (2017). Big Data and security policies: Towards a framework for regulating the phases of analytics and use of Big Data. Computer Law & Security Review, 33(3), 309-'323. https://doi.org/10.1016/j.clsr.2017.03.002
 
 
