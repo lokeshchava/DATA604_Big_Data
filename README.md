@@ -1,15 +1,15 @@
 # DATA 603 Platforms for Big Data Processing
 
-## Big Data with example and types
-Big Data refers to the very large amount of data which is very difficult to handle with regular data processing practices because of its volumetirc, variety and high frequency challenges. It took its pace in the year 2005 and since then every industry dealing with the data has been using big data technologies. Starting from comments on social networking platforms to satellite launch, we are using big data everywhere.
+## Big Data
+Big Data refers to the very large amount of data which is very difficult to handle with regular data processing practices because of its volumetric, variety and high frequency challenges. It took its pace in the year 2005 and since then every industry dealing with the data has been using big data technologies. Starting from comments on social networking platforms to satellite launch, we are using big data everywhere.
 
 There are three type in Big Data:
-- Structured Data: Data which is organised in the form of tabels or databases.
+- Structured Data: Data which is organised in the form of tables or databases.
 - Unstructured Data: Data which don't follow any schema or a predefined structure.
 - Semi-Structured Data: Data which has no definite scheme but still maintains a loose structure.
 
 ## 6 ‘V’s of Big Data
-The 6 V's in big data describes the characterstics of it.
+The 6 V's in big data describes the characteristics of it.
 
 - Volume: The quantity of data produced or required for processing. In one minute, YouTube processes more than 500 hours of video.
 - Velocity: The rate at which data must be processed after it has been generated. Data from high-frequency stock trading.
@@ -38,3 +38,7 @@ Being a game changer in its feild it has some of the cons that can't be hidden n
 - Veracity: Ensuring data quality and addressing sources of noisy or doubtful data.
 - Value: Finding important insights in the midst of Big Data's complexity and noise.
 - Protecting sensitive data and adhering to laws like the GDPR are two aspects of privacy and security.
+
+Reference:
+
+
